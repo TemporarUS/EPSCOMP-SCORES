@@ -1,5 +1,5 @@
-Symbol,EPSscore,Compscore
-AGI,96,99
+Symbol,EPSscore,Compscore,
+AGI,96,99,
 ALK 98 99,
 APP 83 99,
 AROC 99 99,
@@ -10059,3 +10059,4 @@ ZTR 0 ,
 ZTRE 0 ,
 ZTWO 0 ,
 ZVOL 0 ,
+
